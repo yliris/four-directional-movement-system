@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="Pixel RPG Game"
+config/name="Top Down Four Directional Movement"
 run/main_scene="uid://op72b3r57qss"
 config/features=PackedStringArray("4.4", "GL Compatibility")
 config/icon="res://icon.svg"
